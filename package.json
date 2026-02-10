@@ -1,0 +1,8 @@
+{
+  "name": "torchlight-setup",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
